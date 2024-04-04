@@ -15,4 +15,4 @@ class Produto {
     }
 }
 
-var produto = new Produto();
+var produto = new Produto();z
